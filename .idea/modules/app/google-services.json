@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786073062810",
+    "project_id": "telefarm2-a2d43",
+    "storage_bucket": "telefarm2-a2d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786073062810:android:69ae0d943e3190bab53e23",
+        "android_client_info": {
+          "package_name": "com.example.telefarm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786073062810-5a0oldbegkm42q95ehkla23fg6fuqhn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telefarm2",
+            "certificate_hash": "89c2e47856c1fae563564e6351d75f27327d55e5"
+          }
+        },
+        {
+          "client_id": "786073062810-mdu555rito2r72ubi7n361j77clbe2ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWciWfseKCeviL52LdeoQN1efgO6kXpRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786073062810-mdu555rito2r72ubi7n361j77clbe2ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
