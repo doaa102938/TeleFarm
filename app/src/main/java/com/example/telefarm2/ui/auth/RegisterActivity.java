@@ -130,7 +130,11 @@ public class RegisterActivity extends AppCompatActivity {
                         }
                     });
 
+
+
         }
+
+        //12*12
         void ShowAlter (String msg){
             new AlertDialog.Builder(this)
                     .setTitle("Error")
